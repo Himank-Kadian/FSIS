@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppFSIS", "WebAppFSIS\WebAppFSIS.csproj", "{9C1A11A5-7A17-47C7-903D-E8C63A2D7C27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSISSystem", "FSISSystem\FSISSystem.csproj", "{D4B4609B-FD89-4C69-84FD-09B8058909CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C1A11A5-7A17-47C7-903D-E8C63A2D7C27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C1A11A5-7A17-47C7-903D-E8C63A2D7C27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C1A11A5-7A17-47C7-903D-E8C63A2D7C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C1A11A5-7A17-47C7-903D-E8C63A2D7C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B4609B-FD89-4C69-84FD-09B8058909CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B4609B-FD89-4C69-84FD-09B8058909CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B4609B-FD89-4C69-84FD-09B8058909CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B4609B-FD89-4C69-84FD-09B8058909CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEA9F0AB-5538-4197-BEEC-FDEB2971EED6}
+	EndGlobalSection
+EndGlobal
